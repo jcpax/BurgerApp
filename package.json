@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jcpax/Burger.git"
+    "url": "https://github.com/jcpax/BurgerApp"
   },
   "engines": {
     "node": "4.4.7"
@@ -24,7 +24,7 @@
   "author": "Julia Paxton",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jcpax/Burger/issues"
+    "url": "https://github.com/jcpax/BurgerApp/issues"
   },
   "homepage": "https://github.com/jcpax/Burger#readme"
 }
